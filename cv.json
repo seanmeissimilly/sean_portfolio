@@ -2,13 +2,13 @@
   "basics": {
     "name": "Sean Meissimilly",
     "label": "Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "seanmeissimily@gmail.com",
+    "image": "/me_avatar.jpeg",
+    "email": "seanmeissimilly@gmail.com",
     "summary": "Full Stack Developer with experience in creating modern and responsive web applications. Passionate about cutting-edge technologies and efficient solution development.",
-    "theme": "default",
+    "theme": "blue",
     "location": {
-      "address": "Havana",
-      "postalCode": "10001",
+      "address": "",
+      "postalCode": "11500",
       "city": "Havana",
       "countryCode": "CU",
       "region": "Cuba"
@@ -21,18 +21,13 @@
       },
       {
         "network": "LinkedIn",
-        "username": "seanmeissimilly",
-        "url": "https://linkedin.com/in/seanmeissimilly"
+        "username": "sean-meissimilly-15082a23a",
+        "url": "https://www.linkedin.com/in/sean-meissimilly-15082a23a/"
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
-      },
-      {
-        "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "seanmeissimilly",
+        "url": "https://x.com/seanmeissimilly"
       }
     ]
   },

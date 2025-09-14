@@ -3,27 +3,57 @@ import Theme from "@/icons/themeSwitch.astro";
 ---
 
 <div class="no-print inline-flex items-center">
-	<!-- <div class="flex items-center gap-1">
-		<Theme />
-		<select name="themeSwitch" id="themeSwitch" class="block w-full rounded-md border-0 py-1.5 pl-3 pr-10 text-gray-900 dark:text-gray-100 dark:ring-gray-700 sm:text-sm sm:leading-6">
-			<option value="system">System</option>
-			<option value="dark">Dark</option>
-			<option value="light">Light</option>
-		</select>
-	</div> -->
 
 	<div class="group/theme flex items-center gap-2">
 		<label for="themeSwitch" class="flex items-center gap-1 text-sm font-medium leading-6 text-skin-base transition-transform ease-in-out group-hover/theme:rotate-45"> <Theme /></label>
-		<select id="themeSwitch" name="themeSwitch" class="focus:ring-skin-hue ring-skin-muted block w-full rounded-md border-0 py-1.5 pl-3 pr-10 text-skin-base ring-1 ring-inset focus:ring-2 sm:text-sm sm:leading-6">
-			<option value="system">System</option>
-			<option value="dark">Dark</option>
-			<option value="light">Light</option>
+		<select id="themeSwitch" name="themeSwitch" class="focus:ring-skin-hue ring-skin-muted block w-full rounded-md border-0 bg-skin-fill py-1.5 pl-3 pr-10 text-skin-base ring-1 ring-inset focus:ring-2 sm:text-sm sm:leading-6 dark:bg-slate-800 dark:text-white">
+			<option value="system" class="bg-white dark:bg-slate-800 text-skin-base dark:text-white">System</option>
+			<option value="dark" class="bg-white dark:bg-slate-800 text-skin-base dark:text-white">Dark</option>
+			<option value="light" class="bg-white dark:bg-slate-800 text-skin-base dark:text-white">Light</option>
 		</select>
 	</div>
 
 	<style>
 		:global(.dark) {
 			color-scheme: dark;
+		}
+
+		/* Estilos para el menú desplegable */
+		select {
+			appearance: none;
+			-webkit-appearance: none;
+			-moz-appearance: none;
+			background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+			background-repeat: no-repeat;
+			background-position: right 0.5rem center;
+			background-size: 1em;
+		}
+
+		/* Estilos para el menú desplegable en modo oscuro */
+		:global(.dark) select {
+			background-color: #1e293b; /* Un tono de azul oscuro para el fondo */
+			color: #f8fafc; /* Texto blanco para mejor contraste */
+		}
+
+		/* Estilos para las opciones del menú desplegable */
+		select option {
+			background-color: white;
+			color: #1f2937;
+		}
+
+		:global(.dark) select option {
+			background-color: #1e293b;
+			color: #f8fafc;
+		}
+
+		/* Estilo para el menú desplegable al abrirlo */
+		select:focus {
+			outline: none;
+		}
+
+		select option:checked {
+			background-color: #3b82f6;
+			color: white;
 		}
 	</style>
 
