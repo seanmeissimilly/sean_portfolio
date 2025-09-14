@@ -19,7 +19,7 @@ import Java from "@/icons/java.astro";
 import CSharp from "@/icons/csharp.astro";
 import Django from "@/icons/django.astro";
 import JSP from "@/icons/jsp.astro";
-import Astro from "@/icons/astro.astro";
+import Astroi from "@/icons/astro.astro";
 import PostgreSQL from "@/icons/postgresql.astro";
 import SQLServer from "@/icons/sqlserver.astro";
 import MariaDB from "@/icons/mariadb.astro";
@@ -30,7 +30,7 @@ const SKILLS_ICONS: Record<string, any> = {
   // Lenguajes de programación
   Python,
   Java,
-  "C#": CSharp,
+  CSharp,
   JavaScript,
   TypeScript,
 
@@ -38,25 +38,25 @@ const SKILLS_ICONS: Record<string, any> = {
   HTML,
   CSS,
   React,
-  "Next.js": Next,
+  Next,
   Tailwind,
-  Astro,
+  Astroi,
 
   // Backend
-  Node: Node,
+  Node,
   Django,
-  "JavaServer Pages (JSP)": JSP,
+  JSP,
 
   // Bases de datos
   PostgreSQL,
   MySQL,
-  "SQL Server": SQLServer,
+  SQLServer,
   MariaDB,
 
   // DevOps y Herramientas
   Git,
   GitHub,
-  GitLab: Gitlab,
+  Gitlab,
   Linux,
   Vite,
   Figma
@@ -74,6 +74,7 @@ const SKILLS_ICONS: Record<string, any> = {
             name === "C#" ? "CSharp" :
               name === "JavaServer Pages (JSP)" ? "JSP" :
                 name === "SQL Server" ? "SQLServer" :
+                  name === "Astro" ? "Astroi" :
                   name;
 
         const Icon = SKILLS_ICONS[iconName];
