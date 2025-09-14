@@ -86,18 +86,29 @@
   ],
   "education": [
     {
-      "institution": "University of Havana",
-      "url": "https://stateuniversity.edu",
+      "institution": "Universidad Tecnológica de La Habana José Antonio Echeverría (CUJAE)",
+      "url": "https://www.cujae.edu.cu/",
       "area": "Computer Engineering",
-      "studyType": "Bachelor's Degree",
-      "startDate": "2016-09-01",
-      "endDate": "2021-07-01",
-      "score": "4.5",
+      "studyType": "Bachelor's Degree in Computer Science",
+      "startDate": "2019-09-01",
+      "endDate": "2024-10-05",
+      "score": "4.17",
       "courses": [
         "Data Structures and Algorithms",
-        "Web Development",
+        "Object-Oriented Programming",
         "Database Systems",
-        "Artificial Intelligence"
+        "Artificial Intelligence",
+        "Software Engineering",
+        "Computer Networks",
+        "Operating Systems",
+        "Web Development",
+        "Mobile Application Development",
+        "Machine Learning",
+        "Cybersecurity Fundamentals",
+        "Cloud Computing",
+        "Human-Computer Interaction",
+        "Distributed Systems",
+        "Big Data Analytics"
       ]
     }
   ],
@@ -111,45 +122,119 @@
   ],
   "skills": [
     {
-      "name": "Frontend Development",
-      "level": "Expert",
-      "keywords": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "React",
-        "TypeScript",
-        "Vue.js"
-      ]
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": ["Backend Development", "Scripting", "Automation", "Data Analysis"]
     },
     {
-      "name": "Backend Development",
-      "keywords": [
-        "Node.js",
-        "Express",
-        "Python",
-        "Django",
-        "RESTful APIs"
-      ]
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": ["Backend Development", "Object-Oriented Programming", "Enterprise Applications"]
     },
     {
-      "name": "Database",
-      "keywords": [
-        "MongoDB",
-        "PostgreSQL",
-        "MySQL",
-        "Firebase"
-      ]
+      "name": "C#",
+      "level": "Intermediate",
+      "keywords": [".NET", "Backend Development", "Desktop Applications", "Game Development"]
     },
     {
-      "name": "DevOps & Tools",
-      "keywords": [
-        "Docker",
-        "Git",
-        "GitHub Actions",
-        "AWS",
-        "CI/CD"
-      ]
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Backend", "JavaScript Superset"]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "React Framework", "SSR", "Static Generation"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"]
+    },
+    {
+      "name": "Astro",
+      "level": "Intermediate",
+      "keywords": ["Static Site Generator", "JavaScript", "Performance", "Multi-page Applications"]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "Django",
+      "level": "Intermediate",
+      "keywords": ["Web Framework", "Python", "Backend", "MVT Architecture"]
+    },
+    {
+      "name": "JavaServer Pages (JSP)",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Java", "Server-side Rendering", "Dynamic Web Content"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": ["Relational Database", "SQL", "Data Storage", "Backend"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+    },
+    {
+      "name": "SQL Server",
+      "level": "Intermediate",
+      "keywords": ["Relational Database", "Microsoft", "T-SQL", "Enterprise"]
+    },
+    {
+      "name": "MariaDB",
+      "level": "Intermediate",
+      "keywords": ["Relational Database", "MySQL Compatible", "Open Source", "High Performance"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    },
+    {
+      "name": "Linux",
+      "level": "Intermediate",
+      "keywords": ["Operating System", "Server Administration", "Command Line", "Bash Scripting"]
+    },
+    {
+      "name": "VPS Management",
+      "level": "Intermediate",
+      "keywords": ["Server Administration", "Cloud Computing", "Deployment", "Linux Servers"]
+    },
+    {
+      "name": "Vite",
+      "level": "Intermediate",
+      "keywords": ["Build Tool", "Frontend", "Development Server", "JavaScript", "TypeScript"]
     }
   ],
   "projects": [
