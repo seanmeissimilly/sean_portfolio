@@ -1,6 +1,6 @@
 ## Print-friendly portfolio CV
 
-![preview](https://ibb.co/6RSqHqwH)
+![preview](https://github.com/seanmeissimilly/sean_portfolio/blob/alpha/public/portfolio.png?raw=true)
 
 ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
