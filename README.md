@@ -1,13 +1,14 @@
 ## Print-friendly portfolio CV
 
-![preview](https://github.com/user-attachments/assets/44c47034-06e4-412a-b9dd-014593b32215)
+![preview](https://ibb.co/6RSqHqwH)
 
 ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
-![GitHub stars](https://img.shields.io/github/stars/Smilesharks/dev-portfolio)
-![GitHub issues](https://img.shields.io/github/issues/Smilesharks/dev-portfolio)
-![GitHub forks](https://img.shields.io/github/forks/Smilesharks/dev-portfolio)
-![GitHub PRs](https://img.shields.io/github/issues-pr/Smilesharks/dev-portfolio)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/seanmeissimilly/sean_portfolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/seanmeissimilly/sean_portfolio)
 
 ## 🛠️ Stack
 
@@ -17,19 +18,12 @@
 
 ## 🚀 Getting Started
 
-### 1. Use this Repo as an Astro Project Template
-
-- I use [pnpm](https://pnpm.io/installation) as my package manager.
+### 1. Clone the repository
 
 ```bash
-# Enable pnpm on MacOS, WSL & Linux:
-corepack enable
-corepack prepare pnpm@latest --activate
-```
-
-# Initialize the project
-```bash
-pnpm create astro@latest -- --template Smilesharks/dev-portfolio
+git clone https://github.com/seanmeissimilly/sean_portfolio.git
+cd sean_portfolio
+npm install
 ```
 
 ### 2. Add Your Content:
@@ -39,9 +33,10 @@ Edit the `cv.json` file to create your own printable Portfolio/CV.
 ### 3. Launch the Development Server:
 
 ```bash
-# Enjoy the results
-pnpm dev
+# Install dependencies and start the development server
+npm run dev
 ```
+
 1. Open [**http://localhost:4321**](http://localhost:4321/) in your browser to view the result 🚀
 
 ### 4. Customisable colours:
@@ -55,8 +50,6 @@ Change the data-theme of `cv.json` and choose one of the colour themes defined i
 | ⚙️  | `build`         | Checks for errors and creates a production build in `./dist/`. |
 | ⚙️  | `preview`       | Local preview at `localhost:4321`                                       |
 
-Wiki: [dev-portfolio](https://deepwiki.com/Smilesharks/dev-portfolio)
-
 CV JSON schema from [**jsonresume.org**](https://jsonresume.org/schema/)
 
-Based on [**Bartosz Jarocki - Print-friendly, minimalist CV page**](https://github.com/BartoszJarocki/cv) and [**Miguel Ángel Durán - minimalist-portfolio-json**](https://github.com/midudev/minimalist-portfolio-json)
+
