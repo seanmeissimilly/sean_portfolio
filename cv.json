@@ -4,6 +4,8 @@
     "label": "Full Stack Developer",
     "image": "/me_avatar.png",
     "email": "seanmeissimilly@gmail.com",
+    "url": "https://miportafolio.com",
+    "phone": "",
     "summary": "Full Stack Developer with experience in creating modern and responsive web applications. Passionate about cutting-edge technologies and efficient solution development.",
     "theme": "blue",
     "location": {
@@ -34,6 +36,7 @@
   "work": [
     {
       "name": "Alsoft Pro SRL",
+      "url": "",
       "position": "Backend Developer",
       "location_type": "Hybrid",
       "location": "Havana, Cuba",
@@ -70,6 +73,7 @@
     },
     {
       "name": "Centro Cimex de Capacitación",
+      "url": "https://capacitacion.cimex.com.cu/aulavirtual/",
       "position": "IT Professor",
       "location_type": "On-site",
       "location": "Havana, Cuba",
@@ -108,6 +112,7 @@
     },
     {
       "name": "Datacimex",
+      "url": "https://www.facebook.com/astertic/",
       "position": "IT Specialist",
       "location_type": "On-site",
       "location": "Havana, Cuba",
@@ -409,6 +414,7 @@
     {
       "name": "Alinfo - Virtual Food Engineering Repository (Frontend)",
       "isActive": true,
+      "url": "",
       "description": "Frontend for a virtual repository of food engineering resources, built with modern React and state management.",
       "highlights": [
         "Developed a responsive user interface with React and Tailwind CSS",
@@ -449,6 +455,7 @@
     {
       "name": "Hitori Puzzle Game",
       "isActive": true,
+      "url": "",
       "description": "A fully functional C# implementation of the classic Hitori puzzle with a Windows Forms interface. The game is ready to play - simply download the repository and run the executable.",
       "highlights": [
         "Developed a complete, production-ready game with intuitive Windows Forms interface",
@@ -469,6 +476,7 @@
     {
       "name": "Gestion-Acciones",
       "isActive": true,
+      "url": "",
       "description": "A comprehensive web application for managing corporate training programs and employee development initiatives. This system streamlines the organization and tracking of training activities across the enterprise.",
       "highlights": [
         "Developed a complete training management solution using Java Server Pages (JSP) and Java Servlets",
