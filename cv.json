@@ -82,6 +82,19 @@
         "Created and delivered specialized Excel training programs that improved students' productivity by an average of 60%",
         "Provided technical support and training for office productivity tools to staff and students"
       ],
+      "responsibilities": [
+        "Planned and delivered IT training sessions for diverse skill levels",
+        "Developed course materials and practical exercises for Excel and office tools",
+        "Installed, configured, and maintained Moodle LMS on Apache server",
+        "Developed and deployed a JSP-based application on Apache Tomcat",
+        "Provided technical support for classroom hardware and software",
+        "Customized JSP-based applications to meet administrative needs"
+      ],
+      "achievements": [
+        "Improved administrative efficiency by 40% through custom JSP application on Apache Tomcat",
+        "Enhanced digital learning adoption by implementing Moodle LMS on Apache",
+        "Increased student productivity by 60% with specialized Excel training"
+      ],
       "skills": [
         "Java Server Pages (JSP)",
         "Apache Tomcat",
@@ -107,6 +120,18 @@
         "Enhanced existing web applications by implementing new features and functionalities using C# and Java",
         "Reduced system downtime by 25% through proactive troubleshooting and issue resolution",
         "Collaborated with cross-functional teams to identify and resolve software issues, improving overall system reliability"
+      ],
+      "responsibilities": [
+        "Developed and optimized SQL Server reports for business intelligence",
+        "Maintained and enhanced Java and .NET enterprise applications",
+        "Implemented new features using C# and Java",
+        "Performed database optimization and query tuning",
+        "Provided technical support and troubleshooting for end-users"
+      ],
+      "achievements": [
+        "Reduced system downtime by 25% through proactive maintenance",
+        "Improved reporting efficiency with optimized SQL Server queries",
+        "Enhanced application functionality with new feature implementations"
       ],
       "skills": [
         "SQL Server",
