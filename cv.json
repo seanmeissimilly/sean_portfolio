@@ -33,54 +33,91 @@
   },
   "work": [
     {
-      "name": "Software Development Company",
-      "position": "Full Stack Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "website": "https://example.com",
-      "startDate": "2022-01-01",
+      "name": "Alsoft Pro SRL",
+      "position": "Backend Developer",
+      "location_type": "Hybrid",
+      "location": "Havana, Cuba",
+      "startDate": "2025-03-01",
       "endDate": "Present",
       "summary": "Development and maintenance of web applications using modern technologies.",
       "highlights": [
-        "Led the redesign of the main user interface, improving user experience by 40%",
+        "Led the redesign of the main interface, improving user experience by 40%",
         "Implemented new features that increased user engagement by 25%"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Designed and implemented RESTful APIs using Django Rest Framework",
+        "Optimized SQL queries and PostgreSQL database performance",
+        "Implemented WebSockets for real-time functionality",
+        "Collaborated on architecture and feature design",
+        "Maintained and refactored existing codebase",
+        "Participated in code reviews following best practices"
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Implemented a real-time notification system using WebSockets"
       ],
       "skills": [
-        "React",
-        "Node.js",
-        "TypeScript",
-        "MongoDB",
-        "AWS"
+        "Python",
+        "Django",
+        "Django Rest Framework",
+        "PostgreSQL",
+        "WebSockets",
+        "REST API",
+        "JavaScript/TypeScript",
+        "HTML5/CSS3",
+        "Git/GitHub",
+        "Linux"
       ]
     },
     {
-      "name": "Tech Startup",
-      "position": "Frontend Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://techstartup.com",
-      "website": "https://startup.example.com",
-      "startDate": "2020-06-01",
-      "endDate": "2021-12-31",
-      "summary": "Development of responsive and accessible user interfaces for web applications.",
+      "name": "Centro Cimex de Capacitación",
+      "position": "IT Professor",
+      "location_type": "On-site",
+      "location": "Havana, Cuba",
+      "startDate": "2021-10-01",
+      "endDate": "2024-06-30",
+      "summary": "Delivered comprehensive IT training programs including Excel at various levels, computer basics, and office productivity tools. Designed and implemented technical solutions to enhance the learning experience.",
       "highlights": [
-        "Implemented a design system that improved consistency across all platforms",
-        "Reduced page load time by 30% through code optimization"
+        "Developed and deployed a custom web application using Java Server Pages (JSP) that remains in active use, improving administrative efficiency by 40%",
+        "Successfully implemented and configured Moodle learning management system on Apache Tomcat server, supporting digital education initiatives",
+        "Created and delivered specialized Excel training programs that improved students' productivity by an average of 60%",
+        "Provided technical support and training for office productivity tools to staff and students"
       ],
       "skills": [
-        "React",
-        "Redux",
-        "SASS",
-        "Jest"
+        "Java Server Pages (JSP)",
+        "Apache Tomcat",
+        "Moodle Administration",
+        "Microsoft Office Suite",
+        "Computer Literacy Training",
+        "Curriculum Development",
+        "Technical Support",
+        "Classroom Management"
+      ]
+    },
+    {
+      "name": "Datacimex",
+      "position": "IT Specialist",
+      "location_type": "On-site",
+      "location": "Havana, Cuba",
+      "startDate": "2021-04-01",
+      "endDate": "2021-09-30",
+      "summary": "Specialized in SQL Server report development, system enhancements, and providing technical support for Java and .NET web applications.",
+      "highlights": [
+        "Designed, developed, and optimized SQL Server reports to support business intelligence and decision-making processes",
+        "Provided technical support and maintenance for both Java and .NET enterprise web applications",
+        "Enhanced existing web applications by implementing new features and functionalities using C# and Java",
+        "Reduced system downtime by 25% through proactive troubleshooting and issue resolution",
+        "Collaborated with cross-functional teams to identify and resolve software issues, improving overall system reliability"
+      ],
+      "skills": [
+        "SQL Server",
+        "Java",
+        "C#",
+        ".NET Framework",
+        "Web Applications",
+        "Report Development",
+        "Database Optimization",
+        "Technical Support",
+        "Troubleshooting"
       ]
     }
   ],
@@ -113,157 +150,320 @@
     }
   ],
   "certificates": [
-
   ],
   "skills": [
     {
       "name": "Python",
       "level": "Intermediate",
-      "keywords": ["Backend Development", "Scripting", "Automation", "Data Analysis"]
+      "keywords": [
+        "Backend Development",
+        "Scripting",
+        "Automation",
+        "Data Analysis"
+      ]
     },
     {
       "name": "Java",
       "level": "Intermediate",
-      "keywords": ["Backend Development", "Object-Oriented Programming", "Enterprise Applications"]
+      "keywords": [
+        "Backend Development",
+        "Object-Oriented Programming",
+        "Enterprise Applications"
+      ]
     },
     {
       "name": "C#",
       "level": "Intermediate",
-      "keywords": [".NET", "Backend Development", "Desktop Applications", "Game Development"]
+      "keywords": [
+        ".NET",
+        "Backend Development",
+        "Desktop Applications",
+        "Game Development"
+      ]
     },
     {
       "name": "JavaScript",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
     },
     {
       "name": "TypeScript",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Backend", "JavaScript Superset"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
     },
     {
       "name": "HTML",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend"]
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
     },
     {
       "name": "CSS",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
     },
     {
       "name": "React",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
     },
     {
       "name": "Next.js",
       "level": "Beginner",
-      "keywords": ["Web Development", "Frontend", "React Framework", "SSR", "Static Generation"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
     },
     {
       "name": "Tailwind",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
     },
     {
       "name": "Astro",
       "level": "Intermediate",
-      "keywords": ["Static Site Generator", "JavaScript", "Performance", "Multi-page Applications"]
+      "keywords": [
+        "Static Site Generator",
+        "JavaScript",
+        "Performance",
+        "Multi-page Applications"
+      ]
     },
     {
       "name": "Node",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
     },
     {
       "name": "Django",
       "level": "Intermediate",
-      "keywords": ["Web Framework", "Python", "Backend", "MVT Architecture"]
+      "keywords": [
+        "Web Framework",
+        "Python",
+        "Backend",
+        "MVT Architecture"
+      ]
     },
     {
       "name": "JavaServer Pages (JSP)",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Java", "Server-side Rendering", "Dynamic Web Content"]
+      "keywords": [
+        "Web Development",
+        "Java",
+        "Server-side Rendering",
+        "Dynamic Web Content"
+      ]
     },
     {
       "name": "PostgreSQL",
       "level": "Intermediate",
-      "keywords": ["Relational Database", "SQL", "Data Storage", "Backend"]
+      "keywords": [
+        "Relational Database",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
     },
     {
       "name": "MySQL",
       "level": "Intermediate",
-      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
     },
     {
       "name": "SQL Server",
       "level": "Intermediate",
-      "keywords": ["Relational Database", "Microsoft", "T-SQL", "Enterprise"]
+      "keywords": [
+        "Relational Database",
+        "Microsoft",
+        "T-SQL",
+        "Enterprise"
+      ]
     },
     {
       "name": "MariaDB",
       "level": "Intermediate",
-      "keywords": ["Relational Database", "MySQL Compatible", "Open Source", "High Performance"]
+      "keywords": [
+        "Relational Database",
+        "MySQL Compatible",
+        "Open Source",
+        "High Performance"
+      ]
     },
     {
       "name": "Git",
       "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
     },
     {
       "name": "GitHub",
       "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
     },
     {
       "name": "Linux",
       "level": "Intermediate",
-      "keywords": ["Operating System", "Server Administration", "Command Line", "Bash Scripting"]
+      "keywords": [
+        "Operating System",
+        "Server Administration",
+        "Command Line",
+        "Bash Scripting"
+      ]
     },
     {
       "name": "VPS Management",
       "level": "Intermediate",
-      "keywords": ["Server Administration", "Cloud Computing", "Deployment", "Linux Servers"]
+      "keywords": [
+        "Server Administration",
+        "Cloud Computing",
+        "Deployment",
+        "Linux Servers"
+      ]
     },
     {
       "name": "Vite",
       "level": "Intermediate",
-      "keywords": ["Build Tool", "Frontend", "Development Server", "JavaScript", "TypeScript"]
+      "keywords": [
+        "Build Tool",
+        "Frontend",
+        "Development Server",
+        "JavaScript",
+        "TypeScript"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Task Management System",
-      "description": "A web application for managing tasks with user authentication and real-time updates.",
+      "name": "Alinfo - Virtual Food Engineering Repository (Frontend)",
+      "isActive": true,
+      "description": "Frontend for a virtual repository of food engineering resources, built with modern React and state management.",
       "highlights": [
-        "Implemented JWT authentication",
-        "Created an intuitive drag-and-drop interface",
-        "Added real-time synchronization"
+        "Developed a responsive user interface with React and Tailwind CSS",
+        "Implemented state management using Redux Toolkit for efficient data flow",
+        "Created reusable UI components for consistent design across the application",
+        "Integrated with Django REST API for data fetching and state synchronization"
       ],
       "technologies": [
         "React",
-        "Node.js",
-        "MongoDB",
-        "Socket.IO"
+        "Redux Toolkit",
+        "Tailwind CSS",
+        "JavaScript/ES6+",
+        "Axios",
+        "Responsive Web Design"
       ],
-      "url": "https://github.com/yourusername/task-manager"
+      "github": "https://github.com/seanmeissimilly/Alinfo-fronted"
     },
     {
-      "name": "E-commerce Platform",
-      "description": "A full-featured e-commerce platform with product catalog, shopping cart, and payment integration.",
+      "name": "Alinfo - Virtual Food Engineering Repository (Backend)",
+      "isActive": true,
+      "description": "RESTful API backend for the Alinfo platform, providing data management for food engineering resources.",
       "highlights": [
-        "Integrated Stripe payment processing",
-        "Developed admin dashboard",
-        "Implemented product search and filtering"
+        "Designed and implemented RESTful API endpoints using Django REST Framework",
+        "Set up PostgreSQL database for reliable data storage and retrieval",
+        "Implemented authentication and authorization for secure access to resources",
+        "Optimized database queries for improved performance"
       ],
       "technologies": [
-        "Vue.js",
-        "Express",
+        "Python",
+        "Django",
+        "Django REST Framework",
         "PostgreSQL",
-        "Stripe"
+        "JWT Authentication",
+        "API Development"
       ],
-      "url": "https://github.com/yourusername/ecommerce-platform"
+      "github": "https://github.com/seanmeissimilly/Alinfo-backend"
+    },
+    {
+      "name": "Hitori Puzzle Game",
+      "isActive": true,
+      "description": "A fully functional C# implementation of the classic Hitori puzzle with a Windows Forms interface. The game is ready to play - simply download the repository and run the executable.",
+      "highlights": [
+        "Developed a complete, production-ready game with intuitive Windows Forms interface",
+        "Easy to install and play - no additional setup required",
+        "Features include automatic puzzle generation, rule validation, and responsive UI",
+        "Includes executable file for immediate play (Hitori\\Parte Visual\\bin\\Debug\\Parte Visual.exe)"
+      ],
+      "technologies": [
+        "C#",
+        ".NET Framework",
+        "Windows Forms",
+        "Visual Studio",
+        "Desktop Application Development"
+      ],
+      "github": "https://github.com/seanmeissimilly/Hitori.git",
+      "quickStart": "1. Clone the repository\n2. Navigate to Hitori-main\\Parte Visual\\bin\\Debug\n3. Run 'Parte Visual.exe' to start playing"
+    },
+    {
+      "name": "Gestion-Acciones",
+      "isActive": true,
+      "description": "A comprehensive web application for managing corporate training programs and employee development initiatives. This system streamlines the organization and tracking of training activities across the enterprise.",
+      "highlights": [
+        "Developed a complete training management solution using Java Server Pages (JSP) and Java Servlets",
+        "Designed and implemented a responsive user interface with Bootstrap 5 for optimal user experience",
+        "Integrated with MariaDB for reliable data storage and retrieval",
+        "Deployed on Apache Tomcat 8.5 server ensuring stable performance",
+        "Implemented user authentication and role-based access control",
+        "Created reporting features for tracking training completion and effectiveness"
+      ],
+      "technologies": [
+        "Java",
+        "JSP (JavaServer Pages)",
+        "Java Servlets",
+        "Bootstrap 5",
+        "MariaDB",
+        "Apache Tomcat 8.5",
+        "JDBC",
+        "MVC Architecture"
+      ],
+      "github": "https://github.com/seanmeissimilly/Gestion-Acciones.git"
     }
   ],
   "languages": [
@@ -303,50 +503,6 @@
     {
       "name": "Jane Smith",
       "reference": "Reference…"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
     }
   ]
 }
