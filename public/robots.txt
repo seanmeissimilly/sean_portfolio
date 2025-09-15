@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meissimillyportfolio.pages.dev/sitemap.xml
